@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Testing Title
+title: Testing Title Two
 date: 2020-01-20T20:47:10.165Z
 description: This is a test. If this were a real emergency
 featuredpost: true
